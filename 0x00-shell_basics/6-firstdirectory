@@ -1,2 +1,2 @@
-#!/binbash
+#!/bin/bash
 /tmp/my_first_directory/: directory
