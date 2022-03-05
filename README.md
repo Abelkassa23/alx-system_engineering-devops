@@ -37,16 +37,16 @@ What you should learn from this project:
 ### [5. I love numbers](./5-listfilesdigitonly)
 * Display current directory contents.
 
-### [6. Welcome holberton](./6-firstdirectory)
-* Create a script that creates a directory named holberton in the /tmp/ directory.
+### [6. Welcome School](./6-firstdirectory)
+* Create a script that creates a directory named School in the /tmp/ directory.
 
-### [7. Betty in Holberton ](./7-movethatfile)
-* Move the file betty from /tmp/ to /tmp/holberton.
+### [7. Betty in School ](./7-movethatfile)
+* Move the file betty from /tmp/ to /tmp/School.
 
 ### [8. Bye bye Betty ](./8-firstdelete)
 * Delete the file betty.
 
-### [9. Bye bye Holberton](./9-firstdirdeletion)
+### [9. Bye bye School](./9-firstdirdeletion)
 * Delete the directory holberton that is in the /tmp directory.
 
 ### [10. Back to the future ](./10-back)
@@ -64,23 +64,21 @@ What you should learn from this project:
 ### [14. Copy HTML files](./14-copy_html)
 * Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 
-### [15. Let’s move](./15-lets_move)
+### [100-lets_move](./100-lets_move)
 * Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
 
-### [16. Clean Emacs](./16-clean_emacs)
+### [101-clean_emacs](./101-clean_emacs)
 * Create a script that deletes all files in the current working directory that end with the character ~.
 
-### [17. Tree](./17-tree)
-* Create a script that creates the directories welcome/, welcome/to/ and welcome/to/holberton in the current directory.
+### [102-tree](./102-tree)
+* Create a script that creates the directories welcome/, welcome/to/ and welcome/to/School in the current directory.
 
-### [18. Life is a series of commas, not periods](./18-commas)
+### [103-commas](./103-commass)
 * Write a command that lists all the files and directories of the current directory, separated by commas (,).
 
-### [19. File type: Holberton](./holberton.mgc)
-* Create a magic file holberton.mgc that can be used with the command file to detect Holberton data files. Holberton data files always contain the string HOLBERTON at offset 0.
+### [school.mgc](./school.mgc)
+* Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
 
 ---
 
-## Author
-* **Jhoan Stiven Zamora Caicedo** - [jzamora5](https://github.com/jzamora5)
 
